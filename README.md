@@ -1,4 +1,4 @@
-## Database design and implementation for a rewards loyalty system 
+## Database design and implementation of a rewards loyalty system 
 
 Designing a database for any retailer to set up a rewards royalty program and showcasing ways to leverage information gained from the database
 
