@@ -39,11 +39,11 @@ SQL and NoSQL queries were perfomed on the database to gain several insights int
 
 ![Alt text](img/2.jpg)
 
+
 ![Alt text](img/3.jpg)
 
-![Alt text](img/4.jpg)
 
-![Alt text](img/5.jpg)
+![Alt text](img/4.jpg)
 
 
 ## Summary
